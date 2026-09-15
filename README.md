@@ -1,5 +1,5 @@
 # project-status-report
-project Updates made by Eddies team. 
+Project Updates made by Eddies team. 
 ## Week 1 - January 6, 2026
 - Project initiated
 - - Team members assigned
