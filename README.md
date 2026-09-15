@@ -9,5 +9,5 @@ Project Updates made by Eddies team.
 
   ## Week 2 - January 13, 2026
   - Vendor contracts signed
-     - Development phase started
-      - Budget remaining: $45,000
+ - Development phase started
+ - Budget remaining: $45,000
